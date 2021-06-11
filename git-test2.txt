@@ -1,3 +1,5 @@
 Hi same me with another file
 
 Another text line added
+
+Text after cloning
